@@ -1,8 +1,4 @@
 # online-book-store
-Here’s a clean, professional **GitHub README.md** for your SQL project based on your file:
-
----
-
 # 📚 Online Book Store Database (SQL Project)
 
 ## 📌 Project Overview
